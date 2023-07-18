@@ -1,10 +1,10 @@
-
+import 'global.css'
 
 export function App(){
   return(
     <div className='h-screen p-5 bg-slate-800 align-middle '>
      <div className="flex-col border items-end">
-       <h1 className="from-neutral-100 text-slate-100 text-lg bold ">Sistema de Login</h1>
+       <h1 className="from-neutral-100 text-slate-100 text-lg te ">Sistema de Login</h1>
            <div>
         <div>
           <label htmlFor="">Endereço de Email</label>
